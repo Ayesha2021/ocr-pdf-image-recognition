@@ -1,0 +1,11 @@
+pypdf
+pymupdf
+pytesseract
+opencv-python
+pillow
+pandas  # for Data from for json conversion
+arabic-reshaper
+python-bidi
+pymupdf-layout
+groq
+python-dotenv
